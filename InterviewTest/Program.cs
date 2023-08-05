@@ -6,7 +6,8 @@ namespace InterviewTest
     {
         static void Main(string[] args)
         {
-            int[][] grid = {
+            int[][] grid =
+            {
                 new[] { 1, 1, 0, 0, 1 },
                 new[] { 1, 1, 0, 0, 1 },
                 new[] { 0, 1, 1, 1, 1 },
@@ -15,7 +16,7 @@ namespace InterviewTest
             };
 
             ISolution solution = new DFSSolution();
-            int largestIslandSize = solution.GetLargestIslandSize(grid);
+            var largestIslandSize = solution.GetLargestIslandSize(grid);
             Console.WriteLine(largestIslandSize);
         }
     }
