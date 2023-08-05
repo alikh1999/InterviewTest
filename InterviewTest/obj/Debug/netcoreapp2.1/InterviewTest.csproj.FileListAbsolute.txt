@@ -1,0 +1,11 @@
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\bin\Debug\netcoreapp2.1\InterviewTest.deps.json
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\bin\Debug\netcoreapp2.1\InterviewTest.runtimeconfig.json
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\bin\Debug\netcoreapp2.1\InterviewTest.runtimeconfig.dev.json
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\bin\Debug\netcoreapp2.1\InterviewTest.dll
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\bin\Debug\netcoreapp2.1\InterviewTest.pdb
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\obj\Debug\netcoreapp2.1\InterviewTest.csprojAssemblyReference.cache
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\obj\Debug\netcoreapp2.1\InterviewTest.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\obj\Debug\netcoreapp2.1\InterviewTest.AssemblyInfoInputs.cache
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\obj\Debug\netcoreapp2.1\InterviewTest.AssemblyInfo.cs
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\obj\Debug\netcoreapp2.1\InterviewTest.dll
+C:\Users\Wolf\RiderProjects\InterviewTest\InterviewTest\obj\Debug\netcoreapp2.1\InterviewTest.pdb
